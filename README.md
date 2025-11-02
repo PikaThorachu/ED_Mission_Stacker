@@ -1,0 +1,1 @@
+This project is intended to build an application that will simplify stacking missions in the game Elite Dangerous. My intent is to make this available as a plugin for ED Discovery.
